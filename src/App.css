@@ -1,0 +1,12 @@
+.color-comp{
+    background: linear-gradient(to right,rgba(24, 37, 71, 0.76),rgba(1, 117, 98, 0.274));
+}
+.color-bg{
+    background: linear-gradient(to right,rgba(24, 37, 71, 0.76),rgba(82, 1, 85, 0.582),white);
+}
+.bg-cards{
+    background: linear-gradient(rgba(160, 163, 163, 0.192),rgba(24, 37, 71, 0.76));
+}
+.bg-home{
+    background: linear-gradient(to right,rgba(20, 75, 75, 0.192),rgba(135, 139, 151, 0.76));
+}
