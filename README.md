@@ -2,6 +2,19 @@
 
 This project is a **Quran application** built using modern web development tools like React, TailwindCSS, and Vite. The application provides an engaging interface for users to explore Quranic texts, access verses, and navigate chapters seamlessly.
 
+
+## Slides
+
+<p align="center">
+  <img src="https://github.com/user-Zarin/Holy-Scripture-Website/blob/main/QW/Screenshot%20(163).png" width="350" title="hover text">
+   <img src="https://github.com/user-Zarin/Holy-Scripture-Website/blob/main/QW/Screenshot%20(164).png" width="350" title="hover text">
+   <img src="https://github.com/user-Zarin/Holy-Scripture-Website/blob/main/QW/Screenshot%20(165).png" width="350" title="hover text">
+   <img src="https://github.com/user-Zarin/Holy-Scripture-Website/blob/main/QW/Screenshot%20(166).png" width="350" title="hover text">
+   <img src="https://github.com/user-Zarin/Holy-Scripture-Website/blob/main/QW/Screenshot%20(167).png" width="350" title="hover text">
+   <img src="https://github.com/user-Zarin/Holy-Scripture-Website/blob/main/QW/Screenshot%20(168).png" width="350" title="hover text">
+</p>
+
+
 ## Features
 - **Dynamic Routing:** Built with `react-router-dom` for seamless navigation.
 - **Reusable Components:** Modular design for maintainability.
