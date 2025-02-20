@@ -11,7 +11,6 @@ This project is a **Quran application** built using modern web development tools
    <img src="https://github.com/user-Zarin/Holy-Scripture-Website/blob/main/QW/Screenshot%20(165).png" width="350" title="hover text">
    <img src="https://github.com/user-Zarin/Holy-Scripture-Website/blob/main/QW/Screenshot%20(166).png" width="350" title="hover text">
    <img src="https://github.com/user-Zarin/Holy-Scripture-Website/blob/main/QW/Screenshot%20(167).png" width="350" title="hover text">
-   <img src="https://github.com/user-Zarin/Holy-Scripture-Website/blob/main/QW/Screenshot%20(168).png" width="350" title="hover text">
 </p>
 
 
